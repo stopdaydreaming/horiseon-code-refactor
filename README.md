@@ -10,5 +10,5 @@ This repository is the where we develop the code for our marketing company websi
 Copyright (c) Horiseon Corporation. All rights reserved.
 Licensed under the [MIT](license.txt) license.
 
-## PREVIEW
-Click here for live website preview [VIEW SITE](https://stopdaydreaming.github.io/horiseon-code-refactor/)
+## View Website
+Click here the live website [VIEW SITE](https://stopdaydreaming.github.io/horiseon-code-refactor/)
