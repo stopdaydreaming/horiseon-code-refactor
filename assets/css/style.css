@@ -130,6 +130,9 @@ p {
   font-size: 36px;
 }
 
+.description {
+  width: 60%;
+}
 .footer {
   padding: 30px;
   clear: both;

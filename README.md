@@ -1,7 +1,11 @@
-# Horiseon Company Repository - Open Source Code
+# Horiseon Corporation Repository - Open Source Code
 
 ## The Repository
-This repository is the where we develop the code for our marketing company.  This source code is available to everyone under the standard MIT license.
+This repository is the where we develop the code for our marketing company website.  This source code is available to everyone under the standard [MIT license](license.txt).
 
-## Our Website
+## Horiseon Corporation Website
 ![alt text](screenshot.png)
+
+## License
+Copyright (c) Horiseon Corporation. All rights reserved.
+Licensed under the [MIT](license.txt) license.
