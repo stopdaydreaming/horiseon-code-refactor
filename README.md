@@ -11,4 +11,4 @@ Copyright (c) Horiseon Corporation. All rights reserved.
 Licensed under the [MIT](license.txt) license.
 
 ## View Website
-Click here the live website [VIEW SITE](https://stopdaydreaming.github.io/horiseon-code-refactor/)
+Click here to view the live website [VIEW SITE](https://stopdaydreaming.github.io/horiseon-code-refactor/)
