@@ -5,6 +5,13 @@
   margin: 0;
 }
 
+ /* add clearfix hack */
+ .clearfix::after {
+     content: "";
+     display: block;
+     clear: both;
+ }
+
 /* # ELEMENTS */
 body {
   background-color: #d9dcd6;
