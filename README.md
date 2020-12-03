@@ -18,7 +18,7 @@ This repository is the where we develop the code for our marketing company websi
 This code should be used for the purpose of creating/editing code for a typical marketing website.
 
 ## Credits
-This is primarily a solo project, I spent some time working in study groups also.
+1 contributer: @stopdaydreaming
 
 ## License
 Copyright (c) Horiseon Corporation. All rights reserved.
